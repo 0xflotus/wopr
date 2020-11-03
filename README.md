@@ -14,7 +14,7 @@ Created by Yaron Naveh ([@YaronNaveh](https://twitter.com/YaronNaveh))
 ![](./examples/images/charts.png "term")
 ![](./examples/images/map.png "term")
 
-##Writing your first terminal report##
+## Writing your first terminal report
 
 Here is a simple report with a bar chart:
 
@@ -68,7 +68,7 @@ Note the local viewer does not send anything online and does not require network
 
 ![](./examples/images/charts.png "term")
 
-##Markup Basics#
+## Markup Basics
 
 **Pages**
 
@@ -145,7 +145,7 @@ You can also look at the [demo xml](https://raw.githubusercontent.com/yaronn/wop
 
 ![](./examples/images/map.png "term")
 
-##Viewing Reports##
+## Viewing Reports
 
 
 Depending on how you use a report, you have a few ways to view it. On Windows you will probably only be able to use the third option and need to [install the fonts](http://webservices20.blogspot.com/2015/04/running-terminal-dashboards-on-windows.html) for best view.
@@ -229,7 +229,7 @@ You can also view a specific slide (#4 in this case):
 curl --data '<document>...</document>' tty.zone/4\?cols=$((COLUMNS))
 `````
 
-##License##
+## License
 MIT
 
 
